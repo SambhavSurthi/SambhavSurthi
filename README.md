@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SambhavSurthi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML,CSS,Java
+- 🌱 I’m currently learning Django,Python
 - 📫 How to reach me sambhavsurthi14@gmail.com
 
 <!---
