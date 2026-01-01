@@ -41,7 +41,8 @@ I’ve built **multiple impactful projects** that blend intelligent systems with
 ![](https://github-readme-stats.vercel.app/api?username=SambhavSurthi&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SambhavSurthi&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SambhavSurthi&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://raw.githubusercontent.com/SambhavSurthi/SambhavSurthi/master/profile-summary-card-output/github_dark/3-stats.svg)
+<img width="290" src="https://raw.githubusercontent.com/SambhavSurthi/SambhavSurthi/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/SambhavSurthi/SambhavSurthi/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+
 
 
 
