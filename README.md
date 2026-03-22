@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-👋 **Hii, I’m Sambhav Surthi** — a passionate **AI & Full-Stack Developer** who loves building intelligent systems and impactful digital products.
+👋 **Hiii, I’m Sambhav Surthi** — a passionate **AI & Full-Stack Developer** who loves building intelligent systems and impactful digital products.
 
 ### 🚀 What I’m Working On
 I’m currently learning and working deeply in:
