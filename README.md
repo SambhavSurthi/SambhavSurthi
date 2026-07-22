@@ -1,60 +1,187 @@
-## 💫 About Me
+<div align="center">
 
-👋 **Hiii, I’m Sambhav Surthi** — a passionate **AI & Full-Stack Developer** who loves building intelligent systems and impactful digital products.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+SAMBHAV+SURTHI_;AI+%26+Full-Stack+Developer;Building+Intelligent+Systems...;Agentic+AI+%7C+RAG+%7C+LLMs;Always+Curious.+Always+Building." alt="Typing SVG" />
 
-### 🚀 What I’m Working On
-I’m currently learning and working deeply in:
+░░░░░░▒▒▒▒▒▒▓▓▓▓▓▓████████▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░
 
-- 🤖 **Artificial Intelligence**
-- 📊 **Machine Learning & Deep Learning**
-- 🧠 **Natural Language Processing (NLP)**
-- 🔍 **Retrieval-Augmented Generation (RAG)**
-- 🧬 **Generative AI & AI Agents**
+<a href="https://sambhavsurthi.in"><img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://linkedin.com/in/sambhavsurthi"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sambhavsurthi.career@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=SambhavSurthi&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
 
-Alongside AI, I actively practice **Data Structures & Algorithms (DSA)** to sharpen my problem-solving skills and write **efficient, scalable code**.
+</div>
 
-### 🎨 UI/UX & Web Development
-I enjoy designing and building **beautiful, user-centric web applications**.  
-With a strong eye for **UI/UX**, I focus on clean interfaces, smooth interactions, and real-world usability.
+<br/>
 
-### 💻 Tech & Tools
-- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
-- **Backend:** MERN Stack, Spring Boot  
-- **AI / ML:** Machine Learning, Deep Learning, NLP, RAG, Generative AI  
-- **Other Skills:** UI/UX Design, System Thinking, Problem Solving  
+```
+┌────────────────────────────────────────────────────────────────┐
+│ root@sambhav:~$ whoami
+└────────────────────────────────────────────────────────────────┘
+```
 
-I’ve built **multiple impactful projects** that blend intelligent systems with intuitive user experiences.
+```yaml
+identity:
+  name: "Sambhav Surthi"
+  role: "AI & Full-Stack Developer"
+  focus: ["Machine Learning", "Deep Learning", "NLP", "Generative AI", "Agentic AI"]
+  stack: ["MERN", "Spring Boot", "LangChain", "LangGraph", "MCP"]
+  practicing: "Data Structures & Algorithms — writing efficient, scalable code"
+  design_sense: "Clean UI/UX · smooth interactions · real-world usability"
+  status: "Open to collaboration, learning & building meaningful tech 🚀"
+```
 
-### 🌐 Let’s Connect
-- 🔗 **Portfolio:** [sambhavsurthi.in](https://sambhavsurthi.in)  
-- 🤝 Open to collaboration, learning, and building meaningful tech
+> **Always curious. Always building. Always learning.**
 
-> **Always curious. Always building. Always learning. 🚀**
+<br/>
 
+```
+┌────────────────────────────────────────────────────────────────┐
+│ root@sambhav:~$ cat current_focus.log
+└────────────────────────────────────────────────────────────────┘
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sambhavsurthi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sambhavsurthi.career@gmail.com) 
+- 🤖 Diving deep into **Artificial Intelligence** & **Agentic AI systems**
+- 📊 Sharpening **Machine Learning & Deep Learning** fundamentals
+- 🧠 Building with **NLP** and **Retrieval-Augmented Generation (RAG)**
+- 🧬 Experimenting with **Generative AI**, **LangChain**, **LangGraph** & **MCP**
+- 🔍 Grinding **DSA** daily for efficient, scalable problem-solving
+- 🎨 Crafting **beautiful, user-centric** web experiences with a strong UI/UX eye
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-## 📊 GitHub Stats
+<br/>
 
+```
+┌────────────────────────────────────────────────────────────────┐
+│ root@sambhav:~$ ls -la tech_stack/
+└────────────────────────────────────────────────────────────────┘
+```
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SambhavSurthi&theme=aura&hide_border=false" />
-</p>
+<div align="center">
 
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,py,js,ts,html,css,md" />
 
+<br/><br/>
 
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,figma,vscode" />
 
+<br/><br/>
 
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,fastapi" />
 
+<br/><br/>
 
+**AI · ML · Agentic AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,jupyter" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SambhavSurthi&limit=5&theme=aura&combine_all_yearly_contributions=true)
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
 
-[![](https://github-vistors-counter.onrender.com/github?username=SambhavSurthi)](https://github-vistors-counter.onrender.com)
+<br/><br/>
+
+**Cloud · DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,jenkins,nginx" />
+
+<br/><br/>
+
+**Deploy · Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,git,github,postman,notion" />
+
+</div>
+
+<br/>
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│ root@sambhav:~$ ./run github_analytics.dashboard
+└────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=SambhavSurthi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" width="48%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=SambhavSurthi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="48%" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SambhavSurthi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="48%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=SambhavSurthi&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="80%" />
+
+</div>
+
+<br/>
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│ root@sambhav:~$ render contribution_matrix.heatmap
+└────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SambhavSurthi/SambhavSurthi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SambhavSurthi/SambhavSurthi/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/SambhavSurthi/SambhavSurthi/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+> ⚠️ This animated snake needs a one-time GitHub Action set up in your `SambhavSurthi/SambhavSurthi` repo before it will render — see setup steps below.
+
+<br/>
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│ root@sambhav:~$ plot activity_graph.render
+└────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SambhavSurthi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true" width="100%" />
+
+</div>
+
+<br/>
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│ root@sambhav:~$ ping connect --all-channels
+└────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<a href="https://sambhavsurthi.in"><img src="https://img.shields.io/badge/Portfolio-sambhavsurthi.in-00F0FF?style=for-the-badge&logo=firefox&logoColor=black" /></a>
+<a href="https://linkedin.com/in/sambhavsurthi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sambhavsurthi.career@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+[![Visitor Count](https://github-vistors-counter.onrender.com/github?username=SambhavSurthi)](https://github-vistors-counter.onrender.com)
+
+░░░░░░▒▒▒▒▒▒▓▓▓▓▓▓████████▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░
+
+**`// end of transmission — thanks for stopping by 👾`**
+
+</div>
